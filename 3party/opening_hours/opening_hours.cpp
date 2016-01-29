@@ -94,7 +94,7 @@ class StreamFlagsKeeper
   std::ios_base::fmtflags m_flags;
 };
 
-void PrintPaddedNumber(std::ostream & ost, uint32_t const number, uint32_t const padding = 1)
+void PrintPaddedNumber(std::ostream & ost, size_t const number, uint32_t const padding = 1)
 {
   StreamFlagsKeeper keeper(ost);
   ost << std::setw(padding) << std::setfill('0') << number;
