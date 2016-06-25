@@ -31,6 +31,7 @@
     zh-Hant = 關於
     he = אודות
     sk = O aplikácii
+    lt = Apie
 
   [back]
     comment = Button text (should be short)
@@ -62,6 +63,7 @@
     zh-Hant = 返回
     he = חזור
     sk = Späť
+    lt = Atgal
 
   [cancel]
     comment = Button text (should be short)
@@ -94,6 +96,7 @@
     zh-Hant = 取消
     he = בטל
     sk = Zrušiť
+    lt = Atšaukti
 
   [cancel_download]
     comment = Button which interrupts country download
@@ -126,6 +129,7 @@
     zh-Hant = 取消下載
     he = בטל  הורדת הקובץ
     sk = Zrušiť sťahovanie
+    lt = Atšaukti parsisiuntimą
 
   [delete]
     comment = Button which deletes downloaded country
@@ -158,6 +162,7 @@
     zh-Hant = 刪除
     he = מחק
     sk = Zmazať
+    lt = Ištrinti
 
   [do_not_ask_me_again]
     comment = Button to dismiss dialog forever
@@ -189,6 +194,7 @@
     zh-Hant = 不再詢問
     he = אל תשאל פעם נוספת
     sk = Už sa nepýtať
+    lt = Daugiau manęs neklausti
 
   [do_nothing]
     comment = Button "do not interrupt download" if user touched actively downloading country
@@ -220,6 +226,7 @@
     zh-Hant = 繼續
     he = המשך
     sk = Pokračovať
+    lt = Tęsti
 
   [download_maps]
     tags = tizen
@@ -251,6 +258,7 @@
     zh-Hant = 下載地圖
     he = הורד קבצי מפות
     sk = Stiahnuť mapy
+    lt = Atsisiųsti žemėlapius
 
   [download_x_kb]
     comment = Settings/Downloader - Download confirmation button
@@ -282,6 +290,7 @@
     zh-Hant = 下載 %qu kB
     he = kB הורד %qu
     sk = Stiahnuť %qu kB
+    lt = Atsisiųsti %qu kB
 
   [download_x_mb]
     comment = Settings/Downloader - Download confirmation button
@@ -313,6 +322,7 @@
     zh-Hant = 下載 %qu MB
     he = MB הורד %qu
     sk = Stiahnuť %qu MB
+    lt = Atsisiųsti %qu MB
 
   [download_has_failed]
     comment = Settings/Downloader - info for country when download fails
@@ -344,6 +354,7 @@
     zh-Hant = 下載失敗，輕觸以再試一次
     he = הורדת הקובץ נכשלה. לחץ שוב לניסיון נוסף
     sk = Sťahovanie zlyhalo, skúste to znova.
+    lt = Atsisiųsti nepavyko, bandykite dar kartą
 
   [downloaded_x_y_touch_to_delete]
     comment = Settings/Downloader - info for downloaded country
@@ -375,6 +386,7 @@
     zh-Hant = 已下載的 (%1$qu %2$@), 輕觸以刪除
     he = הורדו (%1$qu %2$@), לחץ למחיקה
     sk = Stiahnuté (%1$qu %2$@), stlačte pre vymazanie.
+    lt = Atsisiųsta (%1$qu %2$@), palieskite jeigu norite ištrinti
 
   [downloading_x_touch_to_cancel]
     comment = Settings/Downloader - country info current download progress
@@ -406,6 +418,7 @@
     zh-Hant = 正在下載 %qu%%, 輕觸以取消
     he = הורדו %qu%%, לחץ לביטול
     sk = Sťahovanie %qu%%, stlačte pre zrušenie.
+    lt = Atsisiunčiama %qu%%, palieskite jeigu norite atšaukti
 
   [downloading]
     comment = Settings/Downloader - info for country which started downloading
@@ -437,6 +450,7 @@
     zh-Hant = 下載中…
     he = מוריד….
     sk = Sťahovanie…
+    lt = Atsisiunčiama…
 
   [get_it_now]
     en = Get it now
@@ -467,6 +481,7 @@
     zh-Hant = 馬上取得
     he = הורד אותו עכשיו
     sk = Získať teraz
+    lt = Atsisiųsti dabar
 
   [share_on_facebook_text]
     comment = Text to show occasionaly with a proposal to Like our program on Facebook
@@ -497,6 +512,7 @@
     zh-Hans = 感谢您使用 MAPS.ME！您喜欢此应用吗？告诉您的好友们吧！这会是对我们最好的感谢。
     zh-Hant = 感謝您使用 MAPS.ME！您喜歡此應用程式嗎？告訴好友們吧！這會是對我們最好的感謝。
     sk = Ďakujeme, že používate MAPS.ME! Páči sa vám táto aplikácia? Povedzte o nej svojim priateľom! Bude to pre nás najlepšia odmena.
+    lt = Dėkojame jog naudojate MAPS.ME! Jums patinka ši programėlė? Papasakokite apie ją savo draugams! Tai bus geriausia padėka mums.
 
   [kb]
     comment = Settings/Downloader - size string, only strings different from English should be translated
@@ -515,6 +531,7 @@
     tr = kB
     uk = кБ
     vi = kB
+    lt = kB
 
   [kilometres]
     comment = Choose measurement on first launch alert - choose metric system button
@@ -547,6 +564,7 @@
     zh-Hant = 公里
     he = ק"מ
     sk = Kilometre
+    lt = Kilometrai
 
   [leave_a_review]
     comment = Leave Review dialog - Review button
@@ -578,6 +596,7 @@
     zh-Hant = 撰寫評論
     he = הבע דעתך
     sk = Spätná väzba
+    lt = Palikite atsiliepimą
 
   [maps]
     comment = View and button titles for accessibility
@@ -609,6 +628,7 @@
     zh-Hant = 地圖
     he = מפות
     sk = Mapy
+    lt = Žemėlapiai
 
   [downloader_maps]
     comment = View and button titles for accessibility
@@ -640,6 +660,7 @@
     zh-Hant = 地圖：
     he = מפות:
     sk = Mapy:
+    lt = Žemėlapiai:
 
   [marked_for_downloading]
     comment = Settings/Downloader - info for country in the download queue
@@ -671,6 +692,7 @@
     zh-Hant = 標記為下載，輕觸以取消
     he = סומן להורדה, לחץ לביטול
     sk = Pripravené k stiahnutiu, stlačte pre zrušenie.
+    lt = Pažymėtas kaip siunčiamas, palieskite norėdami atšaukti
 
   [mb]
     comment = Settings/Downloader - size string, only strings different from English should be translated
@@ -689,12 +711,14 @@
     tr = MB
     uk = МБ
     vi = MB
+    lt = MB
 
   [gb]
     tags = ios, android
     en = GB
     ru = ГБ
     uk = ГБ
+    lt = GB
 
   [miles]
     comment = Choose measurement on first launch alert - choose imperial system button
@@ -727,6 +751,7 @@
     zh-Hant = 英哩
     he = מ"ב
     sk = Míle
+    lt = Mylios
 
   [my_position]
     comment = View and button titles for accessibility
@@ -758,6 +783,7 @@
     zh-Hant = 我的位置
     he = מיקומי
     sk = Moja poloha
+    lt = Mano vieta
 
   [ok]
     en = OK
@@ -776,6 +802,7 @@
     zh-Hans = 确定
     zh-Hant = 確定
     he = אשר
+    lt = Gerai
 
   [free_disk_space_for_country_x]
     comment = Settings/Downloader - No free space dialog message
@@ -807,6 +834,7 @@
     zh-Hant = 如要下載%@ ，請先釋放一些空間！
     he = אנא פנה מקום אחסון במכשירך כדי לאפר הורדת %@
     sk = Prosím, uvoľnite nejaké miesto vo svojom zariadení, kým začnete sťahovať %@
+    lt = Norėdami atsisiųsti, prašome atlaisvinti vietos savo įrenginyje %@
 
   [remind_me_later]
     comment = Leave Review dialog - Not now button (remind me later)
@@ -839,6 +867,7 @@
     zh-Hant = 稍後提醒我
     he = הזכר לי מאוחר יותר
     sk = Upozorniť ma neskôr
+    lt = Priminti man vėliau
 
   [later]
     comment = Update maps later/Buy pro version later button text
@@ -869,6 +898,7 @@
     zh-Hant = 稍後
     he = מאוחר יותר
     sk = Neskôr
+    lt = Vėliau
 
   [never]
     comment = Don't show some dialog any more
@@ -899,6 +929,7 @@
     zh-Hant = 不再提醒
     he = אף פעם
     sk = Nikdy
+    lt = Daugiau nepriminti
 
   [report_an_issue]
     comment = Leave Review dialog - Complain button (goes to support site)
@@ -930,6 +961,7 @@
     zh-Hant = 回報問題
     he = דווח על בעיה
     sk = Nahlásiť chybu
+    lt = Pranešti apie problemą
 
   [search]
     comment = View and button titles for accessibility
@@ -960,6 +992,7 @@
     zh-Hans = 搜索
     zh-Hant = 搜尋
     sk = Hľadať
+    lt = Ieškoti
 
   [search_map]
     comment = Search box placeholder text
@@ -991,6 +1024,7 @@
     zh-Hant = 搜尋地圖
     he = חפש במפה
     sk = Prehľadať mapu
+    lt = Ieškoti žemėlapyje
 
   [touch_to_download]
     comment = Settings/Downloader - info for not downloaded country
@@ -1022,6 +1056,7 @@
     zh-Hant = 輕觸以下載
     he = לחץ להוריד
     sk = Stlačte pre stiahnutie
+    lt = Palieskite norėdami atsisiųsti
 
   [use_cellular_data]
     comment = Settings/Downloader - 3G download warning dialog confirm button
@@ -1053,6 +1088,7 @@
     zh-Hant = 是
     he = כן
     sk = Áno
+    lt = Taip
 
   [use_wifi_recommendation_text]
     comment = Settings/Downloader - No internet connection dialog message
@@ -1085,6 +1121,7 @@
     zh-Hant = 我們建議透過 WiFi 連線來下載較大的地圖
     he = אנו ממליצים להשתמש ב WiFi להורדת מפות גדולות
     sk = Doporučujeme použiť WiFi pre sťahovanie väčších máp
+    lt = Rekomenduojame naudoti WiFi atsisiunčiant didelius žemėlapius
 
   [which_measurement_system]
     comment = Choose measurement on first launch alert - title
@@ -1116,6 +1153,7 @@
     zh-Hant = 您偏好哪種度量單位系統？
     he = איזה מערכת יחידות אתם מעדיפים?
     sk = Aký systém pre meranie preferujete?
+    lt = Kuriąmatavimo sistemą Jūs naudojate?
 
   [location_is_disabled_long_text]
     comment = Location services are disabled by user alert - message
@@ -1147,6 +1185,7 @@
     zh-Hant = 您目前裝置所有的定位服務或相關應用程式是處於停用的狀態，請從系統設定中選擇啟用。
     he = שרותי המיקום של מכשיר או ישום זה זה כבויים. הכנס ל "הגדרות" Settings)) כדי להדליקם.
     sk = Aktuálne máte všetky možnosti pre určovanie polohy vypnuté. Prosím, povoľte ich v Nastaveniach.
+    lt = Šiuo metu vietos nustatymo paslaugos Jūsų įrenginyje yra išjungtos. Įjungti įrenginio aptinkamumą nustatymuose.
 
   [device_doesnot_support_location_services]
     comment = Location Services are not available on the device alert - message
@@ -1178,6 +1217,7 @@
     zh-Hant = 您的裝置不支援定位服務
     he = ב” שרותי מיקום” מכשירך אינו תומך ב
     sk = Vaše zariadenie nepodporuje služby pre určovanie polohy
+    en = Jūsų įrenginys nepalaiko vietos nustatymo paslaugos
 
   [zoom_to_country]
     comment = View and button titles for accessibility
@@ -1208,6 +1248,7 @@
     zh-Hans = 在地图上显示
     zh-Hant = 在地圖上顯示
     sk = Ukázať na mape
+    lt = Rodyti žemėlapyje
 
   [country_status_added_to_queue]
     comment = Message to display at the center of the screen when the country is added to the downloading queue
@@ -1239,6 +1280,7 @@
     zh-Hant = ^\n已加入到下載佇列中
     he = ^\nנוסף לתור ההורדה
     sk = ^\npridané do zoznamu sťahovania
+    lt = ^\žemėlapis įtrauktas į atsisiuntimų eilę.
 
   [country_status_downloading]
     comment = Message to display at the center of the screen when the country is downloading
@@ -1270,6 +1312,7 @@
     zh-Hant = 下載中\n^\n^
     he = מוריד\n^\n^
     sk = Sťahovanie\n^\n^
+    lt = Atsisiunčiama\n^\n^
 
   [country_status_download]
     comment = Button text for the button at the center of the screen when the country is not downloaded
@@ -1301,6 +1344,7 @@
     zh-Hant = 下載地圖\n(^ ^)
     he = (^ ^)\nהורידו מפה
     sk = Stiahnite si Mapu\n(^ ^)
+    lt = Atsisiųsti Žemęlapį\n(^ ^)
 
   [country_status_download_without_size]
     comment = Button text for the button at the center of the screen when the country is not downloaded and the size should not be shown
@@ -1332,6 +1376,7 @@
     zh-Hant = 下載地圖
     he = הורידו מפה
     sk = Stiahnite si Mapu
+    lt = Atsisiųsti Žemėlapį
 
   [country_status_download_without_routing]
     comment = Button text for the button at the center of the screen when the country is not downloaded
@@ -1363,6 +1408,7 @@
     zh-Hant = 下載不帶路線的地圖\n(^ ^)
     he = (^ ^)\nהורד מפה בלי לקבוע מסלול
     sk = Stiahnite si mapu\nbez smerovania (^ ^)
+    lt = Atsisiųsti žemėlapį\nbe vedlio (^ ^)
 
   [country_status_download_failed]
     comment = Message to display at the center of the screen when the country download has failed
@@ -1394,6 +1440,7 @@
     zh-Hant = 下載失敗
     he = הורדנכשלה
     sk = Sťahovanie zlyhalo
+    lt = Atsisiuntimas nutrūko
 
   [try_again]
     comment = Button text for the button under the country_status_download_failed message
@@ -1425,6 +1472,7 @@
     zh-Hant = 再試一次
     he = נסה שוב
     sk = Skúsiť znova
+    lt = Bandyti dar kartą
 
   [app_name]
     en = MAPS.ME
@@ -1458,6 +1506,7 @@
     zh-Hant = 關於 MAPS.ME
     he = MAPS.ME אודות
     sk = O aplikácii MAPS.ME
+    lt = Apie MAPS.ME
 
   [downloading_touch_to_cancel]
     en = Downloading %d%%, touch to cancel
@@ -1488,6 +1537,7 @@
     zh-Hant = 正在下載 %d%%, 輕觸以取消
     he = , לחץ לביטול %d%% מוריד
     sk = Sťahovanie %d%%,stlačte pre zrušenie
+    lt = Atsisiunčiama %d%%, palieskite norėdami atšaukti
 
   [downloaded_touch_to_delete]
     en = Downloaded (%@), touch to delete
@@ -1518,6 +1568,7 @@
     zh-Hant = 已下載的 (%@)，輕觸以刪除
     he = הורדת (%@) בוצעה, לחץ למחיקה
     sk = Stiahnuté (%@), stlačte pre zmazanie
+    lt = Atsisiųsta (%@), palieskite norėdami ištrinti
 
   [connection_settings]
     en = Connection Settings
@@ -1548,6 +1599,7 @@
     zh-Hant = 連線設定
     he = הגדרות תקשורת
     sk = Nastavenie pripojenia
+    lt = Ryšio nustatymai
 
   [download_mb_or_kb]
     en = Download %@
@@ -1578,6 +1630,7 @@
     zh-Hant = 下載 %@
     he = הורד %@
     sk = Stiahnuť %@
+    lt = Atsisiųsti %@
 
   [close]
     en = Close
@@ -1608,6 +1661,7 @@
     zh-Hant = 關閉
     he = סגור
     sk = Zavrieť
+    lt = Uždaryti
 
   [unsupported_phone]
     en = A hardware accelerated OpenGL is required. Unfortunately, your device is not supported.
@@ -1638,6 +1692,7 @@
     zh-Hant = 需要 OpenGL 硬體加速功能的支援。但很不幸的，您的裝置並不支援此功能！
     he = נדרש מאיץ חומרה OpenGL. לצערינו מכשיר זה אינו נתמך.
     sk = Je vyžadovaná hardwarová akcelerácia OpenGL. Bohužial, vaše zariadenie nie je podporované.
+    lt = Jūsų įrenginyje reiklinga OpenGL įranga. Dėja, Jūsų įrenginys yra nesuderinamas.
 
   [download]
     tags = tizen
@@ -1668,6 +1723,7 @@
     zh-Hant = 下載
     he = הורד
     sk = Stiahnuť
+    lt = Atsisiųsti
 
   [external_storage_is_not_available]
     en = SD card/USB storage with downloaded maps is not available
