@@ -31,6 +31,7 @@
     zh-Hant = 關於
     he = אודות
     sk = O aplikácii
+    lt = Apie
 
   [back]
     comment = Button text (should be short)
